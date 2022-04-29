@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\ДЗ\C#5  семинарДЗ\Qwest1\bin\Debug\net6.0\Qwest1.exe
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\ДЗ\C#5  семинарДЗ\Qwest1\bin\Debug\net6.0\Qwest1.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\ДЗ\C#5  семинарДЗ\Qwest1\bin\Debug\net6.0\Qwest1.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\ДЗ\C#5  семинарДЗ\Qwest1\bin\Debug\net6.0\Qwest1.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\ДЗ\C#5  семинарДЗ\Qwest1\bin\Debug\net6.0\Qwest1.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\ДЗ\C#5  семинарДЗ\Qwest1\obj\Debug\net6.0\Qwest1.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\ДЗ\C#5  семинарДЗ\Qwest1\obj\Debug\net6.0\Qwest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\ДЗ\C#5  семинарДЗ\Qwest1\obj\Debug\net6.0\Qwest1.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\ДЗ\C#5  семинарДЗ\Qwest1\obj\Debug\net6.0\Qwest1.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\ДЗ\C#5  семинарДЗ\Qwest1\obj\Debug\net6.0\Qwest1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\ДЗ\C#5  семинарДЗ\Qwest1\obj\Debug\net6.0\Qwest1.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\ДЗ\C#5  семинарДЗ\Qwest1\obj\Debug\net6.0\refint\Qwest1.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\ДЗ\C#5  семинарДЗ\Qwest1\obj\Debug\net6.0\Qwest1.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\ДЗ\C#5  семинарДЗ\Qwest1\obj\Debug\net6.0\Qwest1.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\ДЗ\C#5  семинарДЗ\Qwest1\obj\Debug\net6.0\ref\Qwest1.dll
