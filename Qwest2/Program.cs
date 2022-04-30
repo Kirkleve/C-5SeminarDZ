@@ -9,12 +9,16 @@ int[] arrayMass = new int[Length];
 RandomArray(arrayMass);
 WriteArray(arrayMass);
 int count = 0;
+
 for (int i = 0; i< arrayMass.Length; i++)
 {
-    if ( arrayMass[i] % 2 == 0 )
-    count++;
+    if ( arrayMass[i] % 2 == 1 )
+    {
+        count = count + arrayMass[i];
+        Console.WriteLine(count);
+    }
 }
-Console.WriteLine(count);
+Console.WriteLine($"Сумма отрицательных чисел ровна " + count);
 
 void RandomArray(int[] array)
 {
